@@ -26,7 +26,7 @@ Basic Nextflow concepts:
 
 <img src="images/channel_processes_tasks.png" width="700px">
 
-
+Variables like params.greetings can be modified based on command line argument
 
 
 ### Commands
