@@ -24,6 +24,8 @@ Basic Nextflow concepts:
 2. processes: every step in the pipeline is a process
 3. operators
 
+<img src="images/channel_processes_tasks.png" width="700px">
+
 
 
 
